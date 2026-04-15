@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @navidsatarmaker
-- 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning React.js
+- 👀 I’m interested in Freelance Web Projects
 - 📫 How to reach me ... navidsatarmaker@outlook.com
-- 🤹‍♂️ My Current Skills = HTML, CSS, Bootstrap, W3CSS, Javascript
 
 <!---
 navidsatarmaker/navidsatarmaker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
